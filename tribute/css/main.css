@@ -412,7 +412,7 @@
   #quote-bottom {
     margin: -200px 0;
     background: var(--bg-dark),
-      url(images/einstein-violin.jpg)
+      url(../images/einstein-violin.jpg)
         no-repeat center / cover;
     background-attachment: fixed;
   }
