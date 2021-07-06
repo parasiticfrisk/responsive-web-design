@@ -288,14 +288,14 @@
   
   .content7 {
     background: var(--bg-dark),
-      url(https://sciencevspseudoscience.files.wordpress.com/2013/05/einstein_1934_top.jpg)
+      url(../images/einstein-1905_05.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content7:hover {
     background: var(--bg-hover),
-      url(https://sciencevspseudoscience.files.wordpress.com/2013/05/einstein_1934_top.jpg)
+      url(../images/einstein-1905_05.jpg)
         top;
     background-size: 120%;
     align-items: start;
