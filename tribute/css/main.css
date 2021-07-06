@@ -307,14 +307,14 @@
   
   .content8 {
     background: var(--bg-dark),
-      url(https://i.pinimg.com/originals/76/f7/b6/76f7b6c7665be3ae553990cada6d7f8d.jpg)
+      url(../images/einstein-1916.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content8:hover {
     background: var(--bg-hover),
-      url(https://i.pinimg.com/originals/76/f7/b6/76f7b6c7665be3ae553990cada6d7f8d.jpg)
+      url(../images/einstein-1916.jpg)
         center;
     background-size: 120%;
     align-items: start;
