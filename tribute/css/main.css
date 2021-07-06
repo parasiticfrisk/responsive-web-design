@@ -269,14 +269,14 @@
   
   .content6 {
     background: var(--bg-dark),
-      url(https://famous-mathematicians.com/images/albert-einstein.jpg)
+      url(../images/einstein-1905_04.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content6:hover {
     background: var(--bg-hover),
-      url(https://famous-mathematicians.com/images/albert-einstein.jpg)
+      url(../images/einstein-1905_04.jpg)
         center;
     background-size: 120%;
     align-items: start;
