@@ -64,7 +64,7 @@
   }
   
   .bg::after {
-    background-image: url(images/einstein-colorful.png);
+    background-image: url(../images/einstein-colorful.png);
   }
   
   .text-box {
@@ -174,14 +174,14 @@
   
   .content1 {
     background: var(--bg-dark),
-      url(images/albert_einstein_1921.jpg)
+      url(../images/albert_einstein_1921.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content1:hover {
     background: var(--bg-hover),
-      url(images/albert_einstein_1921.jpg)
+      url(../images/albert_einstein_1921.jpg)
         center;
     background-size: 120%;
     align-items: start;
@@ -193,14 +193,14 @@
   
   .content2 {
     background: var(--bg-dark),
-      url(images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(../images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content2:hover {
     background: var(--bg-hover),
-      url(images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(../images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
         center;
     background-size: 120%;
     align-items: start;
@@ -212,14 +212,14 @@
   
   .content3 {
     background: var(--bg-dark),
-      url(https://soulofmatter.files.wordpress.com/2014/03/p7070170.jpg)
+      url(../images/einstein-1905.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content3:hover {
     background: var(--bg-hover),
-      url(https://soulofmatter.files.wordpress.com/2014/03/p7070170.jpg)
+      url(../images/einstein-1905.jpg)
         center;
     background-size: 120%;
     align-items: start;
