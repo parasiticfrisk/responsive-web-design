@@ -193,14 +193,14 @@
   
   .content2 {
     background: var(--bg-dark),
-      url(https://www.ige.ch/fileadmin/user_upload/ueber_uns/geschichte/img/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content2:hover {
     background: var(--bg-hover),
-      url(https://www.ige.ch/fileadmin/user_upload/ueber_uns/geschichte/img/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
         center;
     background-size: 120%;
     align-items: start;
