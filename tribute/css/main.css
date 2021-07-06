@@ -326,14 +326,14 @@
   
   .content9 {
     background: var(--bg-dark),
-      url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Portrait_of_Albert_Einstein_and_Others_%281879-1955%29%2C_Physicist.jpg/1280px-Portrait_of_Albert_Einstein_and_Others_%281879-1955%29%2C_Physicist.jpg)
+      url(../images/einstein-1921.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content9:hover {
     background: var(--bg-hover),
-      url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Portrait_of_Albert_Einstein_and_Others_%281879-1955%29%2C_Physicist.jpg/1280px-Portrait_of_Albert_Einstein_and_Others_%281879-1955%29%2C_Physicist.jpg)
+      url(../images/einstein-1921.jpg)
         center;
     background-size: 120%;
     align-items: start;
