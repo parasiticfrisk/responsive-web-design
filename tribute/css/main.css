@@ -174,14 +174,14 @@
   
   .content1 {
     background: var(--bg-dark),
-      url(../images/albert_einstein_1921.jpg)
+      url(../images/einstein-1879.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content1:hover {
     background: var(--bg-hover),
-      url(../images/albert_einstein_1921.jpg)
+      url(../images/einstein-1879.jpg)
         center;
     background-size: 120%;
     align-items: start;
@@ -193,14 +193,14 @@
   
   .content2 {
     background: var(--bg-dark),
-      url(../images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(../images/einstein-1900.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content2:hover {
     background: var(--bg-hover),
-      url(../images/Einsteins_Arbeitsort_in_der_Speichergasse.jpg)
+      url(../images/einstein-1900.jpg)
         center;
     background-size: 120%;
     align-items: start;
@@ -212,14 +212,14 @@
   
   .content3 {
     background: var(--bg-dark),
-      url(../images/einstein-1905.jpg)
+      url(../images/einstein-1905_01.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content3:hover {
     background: var(--bg-hover),
-      url(../images/einstein-1905.jpg)
+      url(../images/einstein-1905_01.jpg)
         center;
     background-size: 120%;
     align-items: start;
@@ -231,14 +231,14 @@
   
   .content4 {
     background: var(--bg-dark),
-      url("https://www.thoughtco.com/thmb/isaH7bx0Dqc-Pu9fuz3Qzzxb7I4=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/AlbertEinstein-58b0b6973df78cdcd8dbea97.jpg")
+      url(../images//einstein-1905_02.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content4:hover {
     background: var(--bg-hover),
-      url("https://www.thoughtco.com/thmb/isaH7bx0Dqc-Pu9fuz3Qzzxb7I4=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/AlbertEinstein-58b0b6973df78cdcd8dbea97.jpg")
+      url(../images/einstein-1905_02.jpg)
         center;
     background-size: 120%;
     align-items: start
