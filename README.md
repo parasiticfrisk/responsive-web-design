@@ -33,11 +33,11 @@ Finally, you'll learn how to make webpages that respond to different screen size
 | Personal Portfolio      | [View Page][proj05]             | [View Requirements][req05] |
 
 <!-- project quick links -->
-[proj01]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/tribute.html
-[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/survey.html
-[proj03]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/landing.html
-[proj04]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/tech_doc.html
-[proj05]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/portfolio.html
+[proj01]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/01/tribute.html
+[proj02]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/02/survey.html
+[proj03]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/03/landing.html
+[proj04]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/04/tech_doc.html
+[proj05]:https://parasiticfrisk.github.io/basic-cognitive-process/fcc/rd/05/portfolio.html
 [req01]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page "Build a Tribute Page"
 [req02]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form "Build a Survey Form"
 [req03]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page "Build a Product Landing Page"
