@@ -174,14 +174,14 @@
   
   .content1 {
     background: var(--bg-dark),
-      url(https://daily.jstor.org/wp-content/uploads/2016/08/albert_einstein_1921_1050x700.jpg)
+      url(images/albert_einstein_1921.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content1:hover {
     background: var(--bg-hover),
-      url(https://daily.jstor.org/wp-content/uploads/2016/08/albert_einstein_1921_1050x700.jpg)
+      url(images/albert_einstein_1921.jpg)
         center;
     background-size: 120%;
     align-items: start;
