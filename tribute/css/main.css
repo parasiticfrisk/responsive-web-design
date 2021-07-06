@@ -3,6 +3,7 @@
 ** Course: freeCodeCamp Responsive Design - 2018
 ** Project: Tribute Page
 */
+
 * {
     margin: 0;
     padding: 0;
@@ -383,14 +384,14 @@
   
   .content12 {
     background: var(--bg-dark),
-      url(https://i.huffpost.com/gen/2909792/images/o-EINSTEIN-FONT-facebook.jpg)
+      url(../images/einstein-1955.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content12:hover {
     background: var(--bg-hover),
-      url(https://i.huffpost.com/gen/2909792/images/o-EINSTEIN-FONT-facebook.jpg)
+      url(../images/einstein-1955.jpg)
         center;
     background-size: 120%;
     align-items: start;
