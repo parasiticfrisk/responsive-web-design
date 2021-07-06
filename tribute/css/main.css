@@ -364,14 +364,14 @@
   
   .content11 {
     background: var(--bg-dark),
-      url(https://upload.wikimedia.org/wikipedia/commons/d/d5/Niels_Bohr_Albert_Einstein_by_Ehrenfest.jpg)
+      url(../images/einstein-1925.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content11:hover {
     background: var(--bg-hover),
-      url(https://upload.wikimedia.org/wikipedia/commons/d/d5/Niels_Bohr_Albert_Einstein_by_Ehrenfest.jpg)
+      url(../images/einstein-1925.jpg)
         center;
     background-size: 120%;
     align-items: start;
