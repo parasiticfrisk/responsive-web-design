@@ -250,14 +250,14 @@
   
   .content5 {
     background: var(--bg-dark),
-      url(https://www.aulafacil.com/uploads/cursos/773/editor/413px-albert_einstein_photo_1920.es.jpg)
+      url(../images/einstein-1905_03.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content5:hover {
     background: var(--bg-hover),
-      url(https://www.aulafacil.com/uploads/cursos/773/editor/413px-albert_einstein_photo_1920.es.jpg)
+      url(../images/einstein-1905_03.jpg)
         center;
     background-size: 120%;
     align-items: start;
