@@ -345,14 +345,14 @@
   
   .content10 {
     background: var(--bg-dark),
-      url("https://dw8stlw9qt0iz.cloudfront.net/BKwEir39QXA_AEd8K0tSIkBy6J8=/750x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/thumbnail/standard/bfd56368-a9c9-4e3c-c528-6f2af987ae56.png")
+      url(../images/einstein-1924.jpg)
         no-repeat center;
     background-size: cover;
   }
   
   .content10:hover {
     background: var(--bg-hover),
-      url("https://dw8stlw9qt0iz.cloudfront.net/BKwEir39QXA_AEd8K0tSIkBy6J8=/750x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/thumbnail/standard/bfd56368-a9c9-4e3c-c528-6f2af987ae56.png")
+      url(../images/einstein-1924.jpg)
         center;
     background-size: 120%;
     align-items: start;
