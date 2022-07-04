@@ -10,7 +10,7 @@
 <!-- badge info -->
 [school-badge]:https://img.shields.io/badge/free_Code_Camp-Responsive_Design-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
 [course-link]:https://www.freecodecamp.org/learn/responsive-web-design/ "Responsive Web Design"
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/basic-cognitive-process?color=success&&style=for-the-badge
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/responsive-web-design?color=informational&&style=for-the-badge
 [LICENSE]:LICENSE "MIT License"
 
 <br>
