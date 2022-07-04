@@ -53,4 +53,4 @@ By viewing and/or interacting with these files as a current or future student of
 [req03]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page "Build a Product Landing Page"
 [req04]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page "Build a Technical Documentation Page"
 [req05]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage "Build a Personal Portfolio Website"
-[Academic Honesty Policy]:../academic_honesty_policy
+[Academic Honesty Policy]:./academic_honesty_policy
