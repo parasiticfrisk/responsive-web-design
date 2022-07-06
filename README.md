@@ -24,12 +24,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 <br>
 
-## [View Certificate](https://raw.githubusercontent.com/parasiticfrisk/responsive-web-design/gh-pages/images/responsive-web-design.jpg?token=GHSAT0AAAAAABWHWQ5MBDISW26JDPI37CAOYWCSGCQ)
-
-<br>
-
-### Notice:
-By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+### This [Developer Certification] represents approximately 300 hours of coursework.
 
 <br>
 
@@ -41,8 +36,13 @@ By viewing and/or interacting with these files as a current or future student of
 | Technical Documentation | [View Page][proj04] | [View Requirements][req04] |
 | Personal Portfolio      | [View Page][proj05] | [View Requirements][req05] |
 
+<br>
 
-<!-- project quick links -->
+---
+#### Notice
+By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+
+<!-- quick links -->
 [proj01]:https://parasiticfrisk.github.io/responsive-web-design/tribute.html
 [proj02]:https://parasiticfrisk.github.io/responsive-web-design/survey.html
 [proj03]:https://parasiticfrisk.github.io/responsive-web-design/landing.html
@@ -54,3 +54,4 @@ By viewing and/or interacting with these files as a current or future student of
 [req04]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page "Build a Technical Documentation Page"
 [req05]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage "Build a Personal Portfolio Website"
 [Academic Honesty Policy]:./academic_honesty_policy
+[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/responsive-web-design/gh-pages/images/responsive-web-design.jpg?token=GHSAT0AAAAAABWHWQ5MBDISW26JDPI37CAOYWCSGCQ
