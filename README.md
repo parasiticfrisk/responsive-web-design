@@ -4,14 +4,9 @@
 
 [![school-badge]][course-link]
 [![license-badge]][LICENSE]
+![Maintenance](https://img.shields.io/maintenance/no/2018?style=for-the-badge)
 
 </div>
-
-<!-- badge info -->
-[school-badge]:https://img.shields.io/badge/free_Code_Camp-Responsive_Design-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
-[course-link]:https://www.freecodecamp.org/learn/responsive-web-design/ "Responsive Web Design"
-[license-badge]:https://img.shields.io/github/license/parasiticfrisk/responsive-web-design?color=informational&&style=for-the-badge
-[LICENSE]:LICENSE "MIT License"
 
 <br>
 
@@ -39,18 +34,26 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <br>
 
 ---
-By viewing and/or interacting with these files as a current or future student of Free Code Camp, you agree to the terms of the [Academic Honesty Policy].
+By viewing and/or interacting with the files associated within these repositories as a current or future student of computer science, computer electronics, computer information systems, or related field of study, you agree to the terms of the [Academic Honesty Policy].
 
 <!-- quick links -->
-[proj01]:https://parasiticfrisk.github.io/responsive-web-design/tribute.html
-[proj02]:https://parasiticfrisk.github.io/responsive-web-design/survey.html
-[proj03]:https://parasiticfrisk.github.io/responsive-web-design/landing.html
-[proj04]:https://parasiticfrisk.github.io/responsive-web-design/tech_doc.html
-[proj05]:https://parasiticfrisk.github.io/responsive-web-design/portfolio.html
-[req01]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page "Build a Tribute Page"
-[req02]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form "Build a Survey Form"
-[req03]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page "Build a Product Landing Page"
-[req04]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page "Build a Technical Documentation Page"
-[req05]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage "Build a Personal Portfolio Website"
-[Academic Honesty Policy]:./academic_honesty_policy
-[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/responsive-web-design/gh-pages/images/responsive-web-design.jpg?token=GHSAT0AAAAAABWHWQ5MBDISW26JDPI37CAOYWCSGCQ
+<!-- badge info -->
+[school-badge]:https://img.shields.io/badge/free_Code_Camp-Responsive_Design-white?labelColor=006400&logo=freeCodeCamp&style=for-the-badge
+[course-link]:https://www.freecodecamp.org/learn/responsive-web-design/ "view on freeCodeCamp"
+[license-badge]:https://img.shields.io/github/license/parasiticfrisk/responsive-web-design?color=informational&&style=for-the-badge
+[LICENSE]:LICENSE "view license"
+<!-- project -->
+[proj01]:https://parasiticfrisk.github.io/responsive-web-design/tribute.html "view on github"
+[proj02]:https://parasiticfrisk.github.io/responsive-web-design/survey.html "view on github"
+[proj03]:https://parasiticfrisk.github.io/responsive-web-design/landing.html "view on github"
+[proj04]:https://parasiticfrisk.github.io/responsive-web-design/tech_doc.html "view on github"
+[proj05]:https://parasiticfrisk.github.io/responsive-web-design/portfolio.html "view on github"
+<!-- requirements -->
+[req01]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page "view on freeCodeCamp"
+[req02]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form "view on freeCodeCamp"
+[req03]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page "view on freeCodeCamp"
+[req04]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page "view on freeCodeCamp"
+[req05]:https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage "view on freeCodeCamp"
+<!-- misc -->
+[Academic Honesty Policy]:./academic_honesty_policy "view policy"
+[Developer Certification]:https://raw.githubusercontent.com/parasiticfrisk/responsive-web-design/gh-pages/images/responsive-web-design.jpg?token=GHSAT0AAAAAABWHWQ5MBDISW26JDPI37CAOYWCSGCQ "view certificate"
